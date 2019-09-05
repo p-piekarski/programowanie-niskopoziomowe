@@ -4,8 +4,8 @@
 
 
 /*
-Tablicê a oraz zmienne p,q i r zdefiniowano w ramce z prawej strony. Jaka bêdzie
-zawartoœæ tablicy po wykonaniu podanego tam fragmentu kodu programu?
+Tablice a oraz zmienne p,q i r zdefiniowano w ramce z prawej strony. Jaka bedzie
+zawartosc tablicy po wykonaniu podanego tam fragmentu kodu programu?
 */
 
 int main()

@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 /*
-Uzupe³nij poni¿sz¹ definicjê funkcji tak, aby tworzy³a w dynamicznie zaalokowanym
-obszarze pamiêci oraz udostêpni³a napis, który jest kopi¹ pierwszego s³owa na napisu
+Uzupe³nij poni¿sz± definicjê funkcji tak, aby tworzy³a w dynamicznie zaalokowanym
+obszarze pamiêci oraz udostêpni³a napis, który jest kopi± pierwszego s³owa na napisu
 przekazanego jako parametr.
 */
 int main(int argc, char *argv[]) {
