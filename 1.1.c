@@ -1,27 +1,25 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
-Jaka bÄ™dÄ… wartoÅ›Ä‡i zmiennych x1,x2,...,x6 po wykonaniu poniÅ¼szego fragmentu programu,
-przyjmujÄ…c, Å¼e kod ASCII litery A wynosi 65, B - 66 itd, a napis txt umieszczono w pamiÄ™ci
-poczÄ…wszy od adresu 50 000?
- */
+/*Jaka bêd¹ wartoœæi zmiennych x1,x2,...,x6 po wykonaniu poni¿szego fragmentu programu,
+przyjmuj¹c, ¿e kod ASCII litery A wynosi 65, B - 66 itd, a napis txt umieszczono w pamiêci
+pocz¹wszy od adresu 50 000?*/
 
 
 int main(){
 
 	char txt[10] = "AB";
 	long x1, x2, x3, x4, x5, x6;
-	
+
 	x1 = (long) txt[0];
 	x2 = (long) txt[1];
 	x3 = (long) txt[2];
 	x4 = (long) *txt;
 	x5 = (long) txt;
 	x6 = (long) (txt+3);
-	
-	
-	
+
+
+
 	printf("x1 %d\n", x1);
 	printf("x2 %d\n", x2);
 	printf("x3 %d\n", x3);
