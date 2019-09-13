@@ -3,7 +3,7 @@ Programowanie niskopoziomowe
 
 ## Spis treści
 * [Główne info](#główne-info)
-* [Spis ćwiczeń(#spis-ćwiczeń)
+* [Spis ćwiczeń](#spis-ćwiczeń)
 
 ## Główne info
 Ćwiczenia w programowaniu niskopoziomowym w C
