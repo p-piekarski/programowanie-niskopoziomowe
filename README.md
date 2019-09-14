@@ -11,7 +11,7 @@ Programowanie niskopoziomowe
 ## Spis ćwiczeń
 
 1.1
-Jaka będą wartośći zmiennych x1,x2,...,x6 po wykonaniu poniższego fragmentu programu,
+Jaka będą wartości zmiennych x1,x2,...,x6 po wykonaniu poniższego fragmentu programu,
 przyjmując, że kod ASCII litery A wynosi 65, B - 66 itd, a napis txt umieszczono w pamięci
 począwszy od adresu 50 000?
 
@@ -53,14 +53,14 @@ Proszę podać przykład jej wywołania w celu nadania zmiennej a wartości zmie
 2.5
 Uzupełnij poniższą definicję funki w taki sposób, aby tworzyła i udostępniła
 ona kopię zmiennej typu double, przekazanej jako parametr, w dynamicznie zaalokowanym
-obszarze pamięci, a następnie podać przykład jej wywołania, wyswietlić wartość kopii 
-i zapobiec wyciekowu pamięci. 
+obszarze pamięci, a następnie podać przykład jej wywołania, wyswietlić wartość kopii
+i zapobiec wyciekowu pamięci.
 
 3.4
 Poniższa funkcja służy do wyprowadzania na wyjście(wyświetlania) jednego znaku, wskazanego
 przez parametr. Proszę podać przykład jej użycia(wywołania) w celu wyprowadzenia na wyjście
 znaków od połowy długości do końca napisu zdefiniowanego w funkcji main, identyfikowanego
-przez n1. Proszę unikać korzystania z funkcji standardowych biblioteki języka C 
+przez n1. Proszę unikać korzystania z funkcji standardowych biblioteki języka C
 do obsługi napisów
 
 3.5
@@ -71,7 +71,7 @@ Proszę pokazać przykład wywołania tej funkcji.
 4.4
 Poniższa funkcja służy do sumowania elementów tablicy typu float, opisanej przez odpowiednie
 parametry. Proszę podać przukład jej użycia (wywołania) w celu zsumowania elementów
-przykładowej tablicy, utworzonej dynamicznie lub ewentualnie zdefiniowanej statycznie w 
+przykładowej tablicy, utworzonej dynamicznie lub ewentualnie zdefiniowanej statycznie w
 zakresie indesków od 2 do 5 włącznie.
 
 4.5
