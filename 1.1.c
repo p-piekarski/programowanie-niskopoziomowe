@@ -1,9 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*Jaka bêd¹ wartoœæi zmiennych x1,x2,...,x6 po wykonaniu poni¿szego fragmentu programu,
-przyjmuj¹c, ¿e kod ASCII litery A wynosi 65, B - 66 itd, a napis txt umieszczono w pamiêci
-pocz¹wszy od adresu 50 000?*/
+/*Jaka beda wartosci zmiennych x1,x2,...,x6 po wykonaniu ponizszego fragmentu programu, przyjmujac, ze kod ASCII litery A wynosi 65, B - 66 itd, a napis txt umieszczono w pamieci poczawszy od adresu 50 000?*/
 
 
 int main(){
