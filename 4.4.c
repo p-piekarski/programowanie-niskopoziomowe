@@ -2,10 +2,10 @@
 #include <stdlib.h>
 
 /*
-	Poni¿sza funkcja s³u¿y do sumowania elementów tablicy typu float, opisanej przez odpowiednie
-	parametry. Proszê podaæ przuk³ad jej u¿ycia (wywo³ania) w celu zsumowania elementów
-	przyk³adowej tablicy, utworzonej dynamicznie lub ewentualnie zdefiniowanej statycznie w
-	zakresie indesków od 2 do 5 w³¹cznie.
+	PoniÅ¼sza funkcja sÅ‚uÅ¼y do sumowania elementÃ³w tablicy typu float, opisanej przez
+    odpowiednie parametry. ProszÄ™ podaÄ‡ przukÅ‚ad jej uÅ¼ycia (wywoÅ‚ania) w celu zsumowania
+    elementÃ³w przykÅ‚adowej tablicy, utworzonej dynamicznie lub ewentualnie zdefiniowanej
+    statycznie w zakresie indeskÃ³w od 2 do 5 wÅ‚Ä…cznie.
  */
 
 

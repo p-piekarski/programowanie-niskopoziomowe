@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*Jaka bêdzie zawartoœæ tablicy a po wykonaniu poni¿szego fragmentu programu, jeœli funkcja
-wartosc zdefiniowana jest nastêpuj¹co*/
+/*Jaka bÄ™dzie zawartoÅ›Ä‡ tablicy a po wykonaniu poniÅ¼szego
+fragmentu programu, jeÅ›li funkcja wartosc zdefiniowana jest nastÄ™pujÄ…co*/
 	void wartosc (int *x, int y){
 		int v= 5;
 	//	static int v= 5;

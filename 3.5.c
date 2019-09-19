@@ -2,10 +2,9 @@
 #include <stdlib.h>
 
 /*
-	Uzupe³nij poni¿sz¹ definicjê funkcji tak, ¿eby tworzy³a w dynamicznie zalokowanym
-	obszarze pamiêci tablicê dla trzech wartoœci typu int, przekazanych przez parametry
-	Proszê pokazaæ przyk³ad wywo³ania tej funkcji.
-
+	UzupeÅ‚nij poniÅ¼szÄ… definicjÄ™ funkcji tak, Å¼eby tworzyÅ‚a w dynamicznie
+    zalokowanym obszarze pamiÄ™ci tablicÄ™ dla trzech wartoÅ›ci typu int, przekazanych
+    przez parametry ProszÄ™ pokazaÄ‡ przykÅ‚ad wywoÅ‚ania tej funkcji.
  */
 
 	int *alokacja(int a, int b, int c){

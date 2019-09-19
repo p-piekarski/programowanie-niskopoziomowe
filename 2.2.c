@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 /*
-	Tablicê a oraz zmienne p,q i r zdefiniowano w ramce z prawej strony. Jaka bêdzie wartoœæ
-	nastêpuj¹cych wyra¿eñ, jeœli pocz¹tek tablicy a znajdujê sie w pamiêci pod adresem 30 000
+Tablice a oraz zmienne p,q i r zdefiniowano w ramce z prawej strony. Jaka bedzie wartosc
+nastepujacych wyrazen, jesli poczatek tablicy a znajduje sie w pamieci pod adresem 30 000
  */
 
 

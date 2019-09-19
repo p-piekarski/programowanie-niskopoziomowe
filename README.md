@@ -16,8 +16,8 @@ przyjmując, że kod ASCII litery A wynosi 65, B - 66 itd, a napis txt umieszczo
 począwszy od adresu 50 000?
 
 1.2
-Tablice a oraz zmienne p,q i r zdefiniowano w ramce z prawej strony. Jaka bedzie
-zawartosc tablicy po wykonaniu podanego tam fragmentu kodu programu?
+Tablice a oraz zmienne p,q i r zdefiniowano w ramce z prawej strony. Jaka będzie
+zawartość tablicy po wykonaniu podanego tam fragmentu kodu programu?
 
 1.3
 Jaka będzie zawartość tablicy a po wykonaniu poniższego fragmentu programu, jeśli funkcja
@@ -54,7 +54,7 @@ Proszę podać przykład jej wywołania w celu nadania zmiennej a wartości zmie
 Uzupełnij poniższą definicję funki w taki sposób, aby tworzyła i udostępniła
 ona kopię zmiennej typu double, przekazanej jako parametr, w dynamicznie zaalokowanym
 obszarze pamięci, a następnie podać przykład jej wywołania, wyswietlić wartość kopii
-i zapobiec wyciekowu pamięci.
+i zapobiec wyciekowi pamięci.
 
 3.4
 Poniższa funkcja służy do wyprowadzania na wyjście(wyświetlania) jednego znaku, wskazanego
@@ -75,10 +75,10 @@ przykładowej tablicy, utworzonej dynamicznie lub ewentualnie zdefiniowanej stat
 zakresie indesków od 2 do 5 włącznie.
 
 4.5
-Proszę uzupełnić poniższą definicję funki tak, żeby wyświetlała zawartość tablicy wartośći
+Proszę uzupełnić poniższą definicję funki tak, żeby wyświetlała zawartość tablicy wartości
 typu int, przy czym parametrami tej funkcji jest wskaźnik na pierwszy element i wskaniźnik
 na ostatni element tablicy. Proszę pokazać przykład wywołania tej funkcji
 
-10.19
+9.19
 Uzupełnij poniższą definicję funkcji w taki sposób, aby wypełniała ona napis przekazany
 przez parametr text kodem ostatniego znaku tego napisu

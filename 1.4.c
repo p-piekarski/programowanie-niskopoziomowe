@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 /*
-Uzupe³nij poni¿sz¹ definicjê funkcji tak, aby tworzy³a w dynamicznie zaalokowanym
-obszarze pamiêci oraz udostêpni³a napis, który jest kopi¹ pierwszego s³owa na napisu
-przekazanego jako parametr
+UzupeÅ‚nij poniÅ¼szÄ… definicjÄ™ funkcji tak, aby tworzyÅ‚a w dynamicznie
+zaalokowanym obszarze pamiÄ™ci oraz udostÄ™pniÅ‚a napis, ktÃ³ry jest kopiÄ…
+pierwszego sÅ‚owa na napisu przekazanego jako parametr.
 */
 int main(int argc, char *argv[]) {
 
@@ -14,7 +14,7 @@ int main(int argc, char *argv[]) {
 		int i = 0;
 		printf("%s \n",txt); //"Jan uszc ebula"
 		for(; txt[i]!=' '; i++);
-		x = malloc(i-1);         // Zapamiêtaj! Malloc mo¿e byæ tablic¹
+		x = malloc(i-1);         // ZapamiÄ™taj! Malloc moÅ¼e byÄ‡ tablicÅ¡
 		int j = 0;
 		for(; j!=i;)
 		{
@@ -31,7 +31,7 @@ int main(int argc, char *argv[]) {
 
 	char tab[15] = "jan uszc ebula";
 
-	printf("%s",word1(tab));   //Kopia pierwszego s³owa "Jan"
+	printf("%s",word1(tab));   //Kopia pierwszego sÅ‚owa "Jan"
 
 
 

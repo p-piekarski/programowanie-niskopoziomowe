@@ -2,8 +2,8 @@
 #include <stdlib.h>
 
 /*
-Uzupe³nij poni¿sz¹ definicjê funkcji w taki sposób, aby wype³nia³a ona napis przekazany
-przez parametr text kodem ostatniego znaku tego napisu
+UzupeÅ‚nij poniÅ¼szÄ… definicjÄ™ funkcji w taki sposÃ³b, aby wypeÅ‚niaÅ‚a
+ona napis przekazany przez parametr text kodem ostatniego znaku tego napisu
 */
 void last_char ( char text[] )
 {

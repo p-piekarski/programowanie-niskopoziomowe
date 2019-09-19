@@ -2,9 +2,10 @@
 #include <stdlib.h>
 
 /*
-	Proszê uzupe³niæ poni¿sz¹ definicjê funki tak, ¿eby wyœwietla³a zawartoœæ tablicy wartoœæi
-	typu int, przy czym parametrami tej funkcji jest wskaŸnik na pierwszy element i wskaniŸnik
-	na ostatni element tablicy. Proszê pokazaæ przyk³ad wywo³ania tej funkcji
+	ProszÄ™ uzupeÅ‚niÄ‡ poniÅ¼szÄ… definicjÄ™ funki tak, Å¼eby wyÅ›wietlaÅ‚a zawartoÅ›Ä‡
+    tablicy wartoÅ›ci typu int, przy czym parametrami tej funkcji jest wskaÅºnik
+    na pierwszy element i wskaniÅºnik na ostatni element tablicy.
+    ProszÄ™ pokazaÄ‡ przykÅ‚ad wywoÅ‚ania tej funkcji
  */
 
 
